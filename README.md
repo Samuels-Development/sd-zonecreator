@@ -1,6 +1,6 @@
 # sd-zonecreator
 
-> A visual zone creation tool for FiveM featuring an interactive map interface, real-time 3D preview, and multiple export formats.
+> A visual zone creation tool featuring an interactive map interface, real-time 3D preview, multiple export formats and more!
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f598d45-72ba-4e18-9af7-efec27adbcaa" />
 

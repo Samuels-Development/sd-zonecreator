@@ -87,7 +87,7 @@ All templates support:
 
 ### Opening the Zone Creator
 
-Use the command to open the zone creator interface:
+Use the command to open the zone creator interface: (it's locked to group.admin)
 
 ```
 /zonecreator
